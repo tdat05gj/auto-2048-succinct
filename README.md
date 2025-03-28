@@ -1,4 +1,8 @@
-paste into browser console
+paste into browser console: 
+
+
+
+
 (function() {
     let hasConfirmedScore = false; // Flag để nhấn "Confirm Score" một lần
     let hasTriedAgain = false; // Flag để nhấn "Try Again" một lần
